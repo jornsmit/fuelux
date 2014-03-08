@@ -32,8 +32,8 @@ define(function (require) {
 	require('fuelux/radio');
 	require('fuelux/scheduler');
 	require('fuelux/search');
+	require('fuelux/button-dropdown');
 	require('fuelux/spinner');
-	require('fuelux/select');
 	require('fuelux/tree');
 	require('fuelux/wizard');
 });
